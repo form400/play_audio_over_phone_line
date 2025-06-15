@@ -39,7 +39,7 @@ RINGS_BEFORE_AUTO_ANSWER = 2
 # Initialize Modem
 #=================================================================
 def init_modem_settings():
-	# Opean Serial Port
+	# Opean Serial Port Test Change
 	try:
 		analog_modem.open()
 	except:
